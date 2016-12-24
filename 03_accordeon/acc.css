@@ -1,0 +1,19 @@
+#accordeon {
+	width: 350px;
+	border: 10px solid #fff;
+	box-shadow: 0 0 10px grey;
+	margin: 10px;
+}
+
+.acc-head {
+	padding: 5px 10px;
+	background: #c0c0c0;
+	cursor: pointer;
+}
+
+.acc-body {
+	padding: 10px;
+	border-bottom: 1px solid #c0c0c0;
+	margin-bottom: 5px;
+	display: none;
+}

@@ -1,0 +1,18 @@
+#mega-slider {
+	width: 800px;
+	height: 430px;
+	border: 10px solid black;
+}
+
+.block-in {
+	width: 50px;
+	height: 430px;
+	float: left;
+	overflow: hidden;
+	cursor: pointer;
+}
+
+.block-in img {
+	height: 100%;
+	/*width: 100%;*/
+}
